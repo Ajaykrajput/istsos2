@@ -13,10 +13,10 @@ const Dashboard = () => {
         </h3>
 
         <ul style={{ color: "white", marginTop: "50px", textAlign: "left" }}>
-          <li>We can React.js for our web interface </li>
+          <li>We can use React.js for our web interface </li>
           <li>We can make web pages responsive for all devices</li>
           <li>Make interface functionality easy to use for users </li>
-          <li>For responsive and fast development we can use Talewind css</li>
+          <li>For responsive and fast development we can use Tailwind css</li>
           <li>
             We can use popular components liabrary as: Shadcn, headlessUi,
             MaterialUI etc.
